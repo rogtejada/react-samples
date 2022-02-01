@@ -9,7 +9,7 @@ import {
 import Colors from "../style/Colors";
 import GlobalStyles from "../style/GlobalStyles";
 
-export default function Login() {
+export default function LoginComponent() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
